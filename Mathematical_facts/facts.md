@@ -1,5 +1,5 @@
 <html >
-  <body style="background-color:DodgerBlue;">
+  <body style="background-color:Blue;">
       Fact - 1:
 
       Table of 9 is the only table whose digits sum is equal to the itself.
