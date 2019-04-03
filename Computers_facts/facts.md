@@ -12,4 +12,8 @@ C language is not the first language which is used for programing in later phase
 
 C is middle level language because it it uses system call to interact with hardware (so it's not a low level language) and it is not so much advance language providing abstract interfaces for functions like other language like python and java. It is functional procedure oriented language not following oops concept.
 
+Fact-4:
+
+Windows Registory is an example of hierarchal database implemented in the form of tree having parent node and children nodes with siblings. 
+
 
