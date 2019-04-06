@@ -42,6 +42,17 @@ Helica comet is seen after 70 year and last time it was seen in 1976.
 
 Solar ecllipse always fall on dark night and lunar ecllipse always fall on full moon night.
 
+The force which binds planets to sun and make them to revolve around it is centripetel force.
+
+# Fact - 4:-
+
+An year may be defined as the time taken by the planet to revolve around sun (main star) which is 364.25 days in case of earth. That's why calenders get every 4th year as leap year.
+
+A day may be defined as the time taken by the planet to revolve around its own axis which 24 hours in case of earth.
+
+Every planet in the solar system have different measures of years and days and there are many solar system in our universe.
+Due to many differences of measurement of time on different planet or star or any celestial object , concept of time travelling arises based on the concept of relativity.
+
 
 
 
