@@ -8,7 +8,7 @@ Human body consist of 70 % water . If our body lacked with 1% water then we feel
 
 # Fact-3
 
-Facts about solar system :- 
+## Facts about solar system :- 
 
 Earth is the only planet where is life. Humans are trying to make Mars like Earth as scientists have seen some signs of life there.
 
