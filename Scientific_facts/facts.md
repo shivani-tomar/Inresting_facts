@@ -34,6 +34,15 @@ Sun is a star and stationary.
 
 NH3CONH3 (Amonium cynate) is the first compound on the earth which decomposes into urea and then CO2 , H2O and N2O. That's why Earth is suitable planet for life.
 
+Saturn is the most beautiful planet in our solar system due to the rings revolving around it.
+
+Pluto is the coolest planet of our solar system which presence was calculated by scientists before its discovery. And it is the only planet whose orbit crosses the orbit of Neptune.
+
+Helica comet is seen after 70 year and last time it was seen in 1976.
+
+Solar ecllipse always fall on dark night and lunar ecllipse always fall on full moon night.
+
+
 
 
 
