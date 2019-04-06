@@ -44,6 +44,8 @@ Solar ecllipse always fall on dark night and lunar ecllipse always fall on full 
 
 The force which binds planets to sun and make them to revolve around it is centripetel force.
 
+The gravity on moon is 1/6th of the gravity of earth.
+
 # Fact - 4:-
 
 An year may be defined as the time taken by the planet to revolve around sun (main star) which is 364.25 days in case of earth. That's why calenders get every 4th year as leap year.
@@ -52,6 +54,13 @@ A day may be defined as the time taken by the planet to revolve around its own a
 
 Every planet in the solar system have different measures of years and days and there are many solar system in our universe.
 Due to many differences of measurement of time on different planet or star or any celestial object , concept of time travelling arises based on the concept of relativity.
+
+# Fact - 5:-
+
+Spacecraft and rockets needs to apply force to overcome gravitational force to go outside of earth's environment which is known as escape velocity whose minimum value is 1.92 km/h. Even gravitational force is the weakest force in this world having value 6.67 X 10 ^ -11
+
+
+
 
 
 
