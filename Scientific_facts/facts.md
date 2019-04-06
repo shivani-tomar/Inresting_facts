@@ -59,6 +59,12 @@ Due to many differences of measurement of time on different planet or star or an
 
 Spacecraft and rockets needs to apply force to overcome gravitational force to go outside of earth's environment which is known as escape velocity whose minimum value is 1.92 km/h. Even gravitational force is the weakest force in this world having value 6.67 X 10 ^ -11
 
+# Fact - 6:-
+
+## Biological Facts :-
+
+
+
 
 
 
