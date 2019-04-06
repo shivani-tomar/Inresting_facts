@@ -1,5 +1,4 @@
-<html >
-  <body style="background-color:#000066;">
+
       # Fact - 1:
 
       Table of 9 is the only table whose digits sum is equal to the itself.
@@ -17,5 +16,7 @@
       # Fact - 3:
       
       Most of the objects or things or celetial bodies in this universe are in either circle shaped or sphere shaped as       in mathematics sphere is only shape which contains large volume and less area. Circle is 2-d example of sphere.
-  </body>
-</html>
+      
+      # Fact - 4:
+      
+      Most of the things which we saw around us are in mathematical shape like stairs are example of arithimatic             progression  , water tank is an example of cylinder , room is of either cuboid or cube , tent or birthday cap are       of cone , cake pie is of radius-sector , beams are of lines , bowl is of hemi sphere , bucket is of frustum and         many more. 
