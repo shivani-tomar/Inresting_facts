@@ -61,6 +61,27 @@ Spacecraft and rockets needs to apply force to overcome gravitational force to g
 
 # Fact - 6:-
 
+Best and natural example of nuclear fusion reaction is sun in which following reaction occurs :- 
+
+        1H1 + 1H1 -----> 2He4
+        
+where two hydrozen combine to form helium which produces a lots of energy and heat. This is the main reason sun is so much hot.
+
+# Fact - 7:-
+
+## Hubble's Law :-
+
+According to hubble's law "Universe is expanding." 
+
+But main question is how? If we apply law of conservation then nothing can be created neigther destroyed. Then what makes universe expanding.
+
+Actually,  Hubble was right in his context. "Universe is expanding". Let me elaborate.
+
+Suppose a bottle is half filled with water. we can imagine bottle as universe and water as matter in the universe. If we give some heat to water then it will convert into gas and bottle is full of vapour and gas(matter expanding) as it expand itselfto the space which is blank to acquire and liquid will finish slowly(converted into gas). same thing happen with the universe, when energy is applied to it matter formed or deformed. in the starting of universe , there was only one big ball  which break into smaller one when energy is applied on them and expand them selves in the free space.
+
+This is the simple law given by hubble which is true that universe is expanding but matter is same only force of attarction and repulsion and deformation of matter occures.
+
+
 ## Biological Facts :-
 
 
