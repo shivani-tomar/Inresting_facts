@@ -91,6 +91,16 @@ Mitochondria is called energy house of cell.
 Lysosom is called suicide cell as once it breaks out it digest whole cell.
 
 Green house effect was discovered by june beptist furey which is "glass house trap the infra red rays which are responsible for heating it up". This phenomenon is used in cold side cities to grow vegetables and fruits. 
+
+We suffer from typhoid due to salmonela tyfi bacteria which entered into our body and make us ill.
+
+Malaria is spread by the female anaflese mosquito.
+
+Adward Jener was the first person who find out chicken pox cause in 1796.
+
+Virus cannot be destroyed but can be inactive in odd conditions and active in favours. That's why once they entered into the body cannot be out. Most of the allergies are caused by viruses . Even Rynovirus is the virus who cause bad cold.
+
+
       
 
 
