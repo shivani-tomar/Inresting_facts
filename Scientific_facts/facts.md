@@ -90,8 +90,8 @@ Mitochondria is called energy house of cell.
 
 Lysosom is called suicide cell as once it breaks out it digest whole cell.
 
-green
-.       
+Green house effect was discovered by june beptist furey which is "glass house trap the infra red rays which are responsible for heating it up". This phenomenon is used in cold side cities to grow vegetables and fruits. 
+      
 
 
 
