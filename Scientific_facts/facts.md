@@ -84,6 +84,8 @@ This is the simple law given by hubble which is true that universe is expanding 
 
 ## Biological Facts :-
 
+Plants only need frequency of light 
+
 
 
 
