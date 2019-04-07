@@ -77,7 +77,7 @@ But main question is how? If we apply law of conservation then nothing can be cr
 
 Actually,  Hubble was right in his context. "Universe is expanding". Let me elaborate.
 
-Suppose a bottle is half filled with water. we can imagine bottle as universe and water as matter in the universe. If we give some heat to water then it will convert into gas and bottle is full of vapour and gas(matter expanding) as it expand itselfto the space which is blank to acquire and liquid will finish slowly(converted into gas). same thing happen with the universe, when energy is applied to it matter formed or deformed. in the starting of universe , there was only one big ball  which break into smaller one when energy is applied on them and expand them selves in the free space.
+Suppose a bottle is half filled with water. we can imagine bottle as universe and water as matter in the universe. If we give some heat to water then it will convert into gas and bottle is full of vapour and gas(matter expanding) as it expand itself to the space which is blank to acquire and liquid will finish slowly(converted into gas). same thing happen with the universe, when energy is applied to it matter formed or deformed. in the starting of universe , there was only one big ball  which break into smaller one when energy is applied on them and expand them selves in the free space.
 
 This is the simple law given by hubble which is true that universe is expanding but matter is same only force of attarction and repulsion and deformation of matter occures.
 
