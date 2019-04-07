@@ -86,6 +86,12 @@ This is the simple law given by hubble which is true that universe is expanding 
 
 Plants only need frequency of light and heat to prepare their food through leaves where choloroplast pigment is responsible for food preparation.
 
+Mitochondria is called energy house of cell.
+
+Lysosom is called suicide cell as once it breaks out it digest whole cell.
+
+green
+.       
 
 
 
