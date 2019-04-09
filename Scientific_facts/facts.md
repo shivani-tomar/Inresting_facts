@@ -14,7 +14,7 @@ Earth is the only planet where is life. Humans are trying to make Mars like Eart
 
 Sun is 330330 times bigger than earth and earth have a radius of 6400km. That means sun's perimeter is about 13276623360 km.
 
-The distance between Sun and Earth is 15 X 10^9 km.
+The distance between Sun and Earth is 15 X 10^7 km (15 crore).
 
 Mercuray is the smallest and hottest planet of our solar system.
 
@@ -28,7 +28,7 @@ There is astroid belt between Mars and Jupiter which is spread around some kilom
 
 Proxima century is the closest star to earth.
 
-Sun's age is about 500 X 10^ 9 years and according to scientists calculations it is going to live 500 X 10^9 years more also.
+Sun's age is about 5 X 10^ 9 years and according to scientists calculations it is going to live 5 X 10^9 years more also.
 
 Sun is a star and stationary.
 
@@ -57,7 +57,7 @@ Due to many differences of measurement of time on different planet or star or an
 
 # Fact - 5:-
 
-Spacecraft and rockets needs to apply force to overcome gravitational force to go outside of earth's environment which is known as escape velocity whose minimum value is 1.92 km/h. Even gravitational force is the weakest force in this world having value 6.67 X 10 ^ -11
+Spacecraft and rockets needs to apply force to overcome gravitational force to go outside of earth's environment which is known as escape velocity whose minimum value is 11.2 km/h on earth. Even gravitational force is the weakest force in this world having value 6.67 X 10 ^ -11
 
 # Fact - 6:-
 
