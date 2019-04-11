@@ -20,4 +20,9 @@ Fact-5:
 
 Lift used in multistorayed buildings works on the C-Scan algorithm which is basically a disk scheduling algorithm in which head of disk first goes in on direction and complete its all requests given by the users and then move to another direction and start serving requests of other side without wasting time on serving served requests.
 
+Fact-6:
+
+Most of the communicating devices like mobile , laptop , television , computers etc are made up of semi-conductor like silicon , germanium which lie in the middle of periodic table having properties of both metals and non- metals. 
+Mostly silicon is used as it is found in aboundent amount on earth. This is the main reson why IT industries are commonly known as "SILICON VALLEY" in America(USA).
+
 
