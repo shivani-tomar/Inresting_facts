@@ -20,3 +20,7 @@
       # Fact - 4:
       
       Most of the things which we saw around us are in mathematical shape like stairs are example of arithimatic             progression  , water tank is an example of cylinder , room is of either cuboid or cube , tent or birthday cap are       of cone , cake pie is of radius-sector , beams are of lines , bowl is of hemi sphere , bucket is of frustum and         many more. 
+      
+      # Fact - 5:
+      
+      55 is the greatest number which can be represent by our hand's finger by doing 5 and 5 55. And the greatest magic is that we can count only 10 numbers using our hand's finger and summation of first 10 natural numbers is 55.
