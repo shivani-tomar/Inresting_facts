@@ -94,12 +94,15 @@ Green house effect was discovered by june beptist furey which is "glass house tr
 
 We suffer from typhoid due to salmonela tyfi bacteria which entered into our body and make us ill.
 
-Malaria is spread by the female anaflese mosquito.
+Malaria is spread by the female anafleze mosquito.
 
 Adward Jener was the first person who find out chicken pox cause in 1796.
 
 Virus cannot be destroyed but can be inactive in odd conditions and active in favours. That's why once they entered into the body cannot be out. Most of the allergies are caused by viruses . Even Rynovirus is the virus who cause bad cold.
 
+## Environmental Facts : - 
+
+Ozone layer depletion is more in Antartica even there is no one to pollute the air then why Ozone depletion is more in Antartica. This is because of the fact that hot air try to rise up and flow from hot places to cool places to get cold and polluted air is hot due to the mixing of poisionious gases like SO2 , CO2 , CFC's etc and this polluted air goes to Antartica as it is the coolest place on the earth and deplete the ozone layer situated in stratosphere of our environment between in the range 16km-25km.
 
       
 
