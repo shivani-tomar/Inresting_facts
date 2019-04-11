@@ -16,4 +16,8 @@ Fact-4:
 
 Windows Registory is an example of hierarchal database implemented in the form of tree having parent node and children nodes with siblings. 
 
+Fact-5:
+
+Lift used in multistorayed buildings works on the C-Scan algorithm which is basically a disk scheduling algorithm in which head of disk first goes in on direction and complete its all requests given by the users and then move to another direction and start serving requests of other side without wasting time on serving served requests.
+
 
