@@ -23,4 +23,4 @@
       
       # Fact - 5:
       
-      55 is the greatest number which can be represent by our hand's finger by doing 5 and 5 55. And the greatest magic is that we can count only 10 numbers using our hand's finger and summation of first 10 natural numbers is 55.
+      55 is the greatest number which can be represent by our hand's finger by doing 5 and 5 makes 55. And the greatest magic is that we can count only 10 numbers using our hand's finger and summation of first 10 natural numbers is 55.
