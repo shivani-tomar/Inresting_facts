@@ -41,3 +41,6 @@ Fact-10:-
 
 Database indexing is implemented using B or B+ trees data-structure.
 
+Fact-11:-
+
+Quick sort is categarized under unstable sort.
