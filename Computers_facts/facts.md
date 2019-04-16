@@ -44,3 +44,7 @@ Database indexing is implemented using B or B+ trees data-structure.
 Fact-11:-
 
 Quick sort is categarized under unstable sort.
+
+Fact-12:-
+
+OR operation gives addition of two numbers and AND operation give product of two numbers.(It is correct if bits are not overflowed otherwise it will give wrong answer in computer as one register is of 8 bits)
