@@ -29,4 +29,7 @@ Fact-7:-
 
 It is totally illusion that while running a program , the whole program resides into RAM. If the size of program is greater than RAM's size then it is divided into pages resides in hard disk and on the basis of requirement they go into RAM of the computer. This is called swaping of pages and when a page go into RAM called swap in process and when it go from RAM to hard disk then it is called swap out process. 
 
+Fact-8:-
+
+Due to the problem of searching in skewed tree as it takes O(n) time complexity , the concept of balance tree came in data-structures . Adelson Velskii and Landis tree and Red- Black trees are example of balance tree.
 
