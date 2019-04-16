@@ -25,4 +25,8 @@ Fact-6:
 Most of the communicating devices like mobile , laptop , television , computers etc are made up of semi-conductor like silicon , germanium which lie in the middle of periodic table having properties of both metals and non- metals. 
 Mostly silicon is used as it is found in aboundent amount on earth. This is the main reson why IT industries are commonly known as "SILICON VALLEY" in America(USA).
 
+Fact-7:-
+
+It is totally illusion that while running a program , the whole program resides into RAM. If the size of program is greater than RAM's size then it is divided into pages resides in hard disk and on the basis of requirement they go into RAM of the computer. This is called swaping of pages and when a page go into RAM called swap in process and when it go from RAM to hard disk then it is called swap out process. 
+
 
