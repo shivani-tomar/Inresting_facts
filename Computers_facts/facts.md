@@ -37,3 +37,7 @@ Fact-9:-
 
 The concept of circular queue came into data-structure to overcome the disadvantage of memory waste in queue.
 
+Fact-10:-
+
+Database indexing is implemented using B or B+ trees data-structure.
+
