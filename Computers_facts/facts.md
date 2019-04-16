@@ -33,3 +33,7 @@ Fact-8:-
 
 Due to the problem of searching in skewed tree as it takes O(n) time complexity , the concept of balance tree came in data-structures . Adelson Velskii and Landis tree and Red- Black trees are example of balance tree.
 
+Fact-9:-
+
+The concept of circular queue came into data-structure to overcome the disadvantage of memory waste in queue.
+
