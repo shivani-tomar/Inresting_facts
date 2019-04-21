@@ -48,3 +48,7 @@ Quick sort is categarized under unstable sort.
 Fact-12:-
 
 OR operation gives addition of two numbers and AND operation give product of two numbers.(It is correct if bits are not overflowed otherwise it will give wrong answer in computer as one register is of 8 bits)
+
+Fact-13:-
+
+Google uses google boat and Microsoft uses bing boat to search the web pages upload on the internet. Boat is a software which searches the webpages on daily basis and do indexing of these pages. Google get paid by other companies to rank their pages first and lots of people visit them. Such type of softwares are also known as spider.
