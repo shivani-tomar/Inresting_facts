@@ -104,6 +104,19 @@ Virus cannot be destroyed but can be inactive in odd conditions and active in fa
 
 Ozone layer depletion is more in Antartica even there is no one to pollute the air then why Ozone depletion is more in Antartica. This is because of the fact that hot air try to rise up and flow from hot places to cool places to get cold and polluted air is hot due to the mixing of poisionious gases like SO2 , CO2 , CFC's etc and this polluted air goes to Antartica as it is the coolest place on the earth and deplete the ozone layer situated in stratosphere of our environment between in the range 16km-25km.
 
+## Artificial Rain :-
+
+Can we make raining artificially ? Then the answer is "YES" . We need to know the process of raining so that we can create such type of conditions to rain artificially. So, now the question is how does rain? Let me explain it.
+
+Due to the energy get in form of heat , water converted into vapours and rose up and the process is called vaporization and then due to cold environment it again converted into liquid form and heavy enough to sustain with air and fall down in form of water drops combinedly known as rain. This is only outer structure of raining process. What happened during the water rising up and falling down. What are the condition arises which convert them?
+
+Actually , when water rose up in form of vapours(gas form) , then these vapours form clouds and these clouds are ionized i.e. having particular charge (either positive or negative) on them . When two oppositively charged clouds collide to each other then there is lightening and thunder (intensity depends on many parameters like how do they collide , what position they collide etc.). It's like when we make one live wire to another wire having opposite charge , then they spark with some noise. Same happens with clouds. When they collide they create lightening and thunder and get neutral charge and cool down, these vapours converted into water(liquid form) again and these drops fall down due to gravitational force which is called raining. 
+
+Now, I hope you understand how we can create artificial raining.
+
+
+
+
       
 
 
