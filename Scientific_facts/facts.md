@@ -124,7 +124,7 @@ In the above fact , I told you that vapours(gas) form clouds which are ionized. 
                 H2 -------heat------->   2 H+ (loose 2 electron)
                 O2 -------heat-------->  2 O- (gain 2 elecrton)
                 
-                2H+  + O-  ---------->  H2O (rain)
+                2H+  + O-  ---------->  H2O (rain) + energy
 
 
 
