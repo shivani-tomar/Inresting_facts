@@ -114,6 +114,18 @@ Actually , when water rose up in form of vapours(gas form) , then these vapours 
 
 Now, I hope you understand how we can create artificial raining.
 
+### How could gas be ionozed :-
+
+In the above fact , I told you that vapours(gas) form clouds which are ionized. Now, the question arise how they are ionized. Actually , when heat is given to the water , bonds between them are broken and converted into gas which are hydrozen and oxygen. When more heat is given to them , they loose and gain electron to get stable postion according to octet rule and become ionized having postive charge and negative charge.
+
+### Chemical reation of rain :-
+
+                H2O  ------heat------>  H2 (gas)  +O2 (gas)
+                H2 -------heat------->   2 H+ (loose 2 electron)
+                O2 -------heat-------->  2 O- (gain 2 elecrton)
+                
+                2H+  + O-  ---------->  H2O (rain)
+
 
 
 
