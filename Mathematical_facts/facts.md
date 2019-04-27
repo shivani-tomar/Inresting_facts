@@ -24,3 +24,7 @@
       # Fact - 5:
       
       55 is the greatest number which can be represent by our hand's finger by doing 5 and 5 makes 55. And the greatest magic is that we can count only 10 numbers using our hand's finger and summation of first 10 natural numbers is 55.
+      
+      # Fact - 6 :
+      
+      Every number when multiplied by 9 then its sum of digits are also 9. like 2*9 = 18 whose sum of digit is 9 ,25 * 9 = 225 whose sum of digits are also 9. you can take any example. Wether its 3,4 or any number  
