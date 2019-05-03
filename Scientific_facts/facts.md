@@ -125,6 +125,13 @@ In the above fact , I told you that vapours(gas) form clouds which are ionized. 
                 O2 -------heat-------->  2 O- (gain 2 elecrton)
                 
                 2H+  + O-  ---------->  H2O (rain) + energy
+                
+## Why does air flow ?
+
+In our daily life, we used to say , air is flowing or cool air is blowing there.. let go.. Have we thought why air flow or why stroms comes ? why some areas are consider to be cyclone affected ? Now, let me tell you the reason of air flow.
+Actually air flows from one place to another due to the difference in pressure between places. It is the tendency of molecule to go from high pressure to low pressure to get stable. The molecules of gases also have same tendency. They try to go from high pressure places to low pressure place. And cause the flow of air. If the pressure difference between two places is so much high then it will cause in strom as they flow with high speed. 
+
+Here , pressure means environmental pressure which is different for different places due to their location , poistion , longitude and lattitude difference. This is the main reason why some places are always cyclone affected or very sensative towards strom or natural hazards.
 
 
 
