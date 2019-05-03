@@ -28,3 +28,7 @@
       # Fact - 6 :
       
       Every number when multiplied by 9 then its sum of digits are also 9. like 2*9 = 18 whose sum of digit is 9 ,25 * 9 = 225 whose sum of digits are also 9. you can take any example. Wether its 3,4 or any number  
+
+      # Fact - 7 :
+      
+      Transportation problem , cost problem or project expenditure problems are solved by linear equation which gives optimal solution mathematically and guide business man in which field he need to invest and what cost he need to invest which gives him maximum profit. The graph is plotted to and min/max points are found. There is no jugaad or satta in real world investment or optimization problems. 
