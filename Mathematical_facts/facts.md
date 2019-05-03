@@ -73,11 +73,12 @@
             
             After solving these two equations, there point of intersection point is (3, 8)
             
-            These points form bounded graph with points (0,10) , (17/3 , 0) , (3, 8) 
+            These points form bounded graph with points (0,0),(0,10) , (17/3 , 0) , (3, 8) 
             
             Now, put these (x,y) values in maximum revenue equation which is z = 100x + 120y
             
-            at point (0,10)  z = 1200
+            at point (0,0)  z = 0
+               point (0,10)  z = 1200
                point (17/3 , 0)  z = 566.67
                point (3,8) z = 1260
                
