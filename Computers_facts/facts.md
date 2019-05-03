@@ -52,3 +52,7 @@ OR operation gives addition of two numbers and AND operation give product of two
 # Fact-13:-
 
 Google uses google boat and Microsoft uses bing boat to search the web pages upload on the internet. Boat is a software which searches the webpages on daily basis and do indexing of these pages. Google get paid by other companies to rank their pages first and lots of people visit them. Such type of softwares are also known as spider.
+
+# Fact-14:-
+
+Computer is named "Computer" on the basis of mathematical calculations and derived from the word "COMPUTATION" which means calculation . So, basically computers are calculators. 
