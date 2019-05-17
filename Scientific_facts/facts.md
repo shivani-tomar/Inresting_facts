@@ -81,6 +81,20 @@ Suppose a bottle is half filled with water. we can imagine bottle as space and w
 
 This is the simple law given by hubble which is true that universe is expanding but matter is same only force of attarction and repulsion and deformation of matter occures. 
 
+### Graph of universe expanding :- 
+
+                                |       |-------------------------------------
+                                |       |-------------------------------------
+                                |       |-------------------------------------------
+                                |       |----------------------------------------------
+                                |       |---------------------------------------------
+                                |       |----------------------------------------------
+                                |       |___________________________
+                                |       
+                                |__________________________________
+                                
+Mathematical graph of universe expanding law of hubble is semi-closed graph in which we know our initial point but till now not able to find final point. And there are many solutions of this graph as feeasible area is wide and wider . That's why he said that universe is expanding.
+
 
 ## Biological Facts :-
 
