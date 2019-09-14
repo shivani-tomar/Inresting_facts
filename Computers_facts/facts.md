@@ -56,3 +56,14 @@ Google uses google boat and Microsoft uses bing boat to search the web pages upl
 # Fact-14:-
 
 Computer is named "Computer" on the basis of mathematical calculations and derived from the word "COMPUTATION" which means calculation . So, basically computers are calculators. 
+
+# How does internet work : - 
+
+
+# OSI layers of communication : - 
+
+
+# TCP/IP protocol :-
+
+
+
