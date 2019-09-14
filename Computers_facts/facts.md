@@ -65,5 +65,9 @@ Computer is named "Computer" on the basis of mathematical calculations and deriv
 
 # TCP/IP protocol :-
 
+# How does search engine works :-
+
+# how Spells are stored and found in database :-
+
 
 
