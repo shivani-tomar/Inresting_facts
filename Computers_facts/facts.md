@@ -57,6 +57,12 @@ Google uses google boat and Microsoft uses bing boat to search the web pages upl
 
 Computer is named "Computer" on the basis of mathematical calculations and derived from the word "COMPUTATION" which means calculation . So, basically computers are calculators. 
 
+# Fact-15:-
+
+Preorder traversal of a binary tree is same as we insert the nodes in it. So, while constructing a binary tree from preorder travesal is same as inserting nodes in a tree.
+
+Inorder traversal of binary search tree is in sorted order.
+
 # How does internet work : - 
 
 
